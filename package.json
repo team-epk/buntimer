@@ -26,7 +26,7 @@
     "envify": "^4.1.0",
     "onchange": "^6.1.0",
     "tsify": "^4.0.1",
-    "typescript": "^3.7.5",
+    "typescript": "^5.2.2",
     "uglifyify": "^5.0.0"
   },
   "dependencies": {
